@@ -1,3 +1,5 @@
+# Deployed version (https://resume-builder-b0f3d.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
